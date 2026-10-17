@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+node_modules/
+.mcpb-cache/
+# types the engine lays beside each mod while developing
+plugins/*/.claude-plugin/types/

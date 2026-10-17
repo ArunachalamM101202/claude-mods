@@ -1,0 +1,9 @@
+{
+  "name": "clawd-critter",
+  "version": "0.1.0",
+  "description": "A tiny orange Claude critter that scuttles above the prompt and acts out what Claude is doing: typing in Bash, hauling git pushes, hammering edits, napping when idle.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Arunachalam Manikandan"
+  }
+}
